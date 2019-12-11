@@ -1,1 +1,1 @@
-{'scripts': {'ll': {'type': 'file', 'extension': 'py', 'private': False}}}
+{'scripts': {'ll': {'type': 'file', 'private': False, 'extension': 'py'}, 'show': {'type': 'dir', 'extension': 'exe', 'private': False}}}
